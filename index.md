@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Inicio
 ---
 
-<div class="home-hero">
-
+<div class="home-hero" markdown="1">
+  
 # Aprende robótica con EduWit y mBlock 🤖
 
 Guías sencillas para comenzar a programar tus **EduBoards** con bloques.
