@@ -1,22 +1,29 @@
 ---
 layout: page
-title: EduWit + mBlock
+title: Inicio
 ---
+
+<div class="home-hero">
 
 # Aprende robótica con EduWit y mBlock 🤖
 
-Aquí encontrarás guías sencillas para comenzar a programar tus **EduBoards** con bloques.
+Guías sencillas para comenzar a programar tus **EduBoards** con bloques.
 
-No necesitas experiencia previa.
+**No necesitas experiencia previa.**
+
+</div>
 
 ## Elige tu EduBoard
 
-### EduBoard UNO
+<div class="guide-grid">
+  <a class="guide-card" href="EduBoard-UNO/">
+    <h3>EduBoard UNO</h3>
+    <p>Conecta motores, LEDs y sensores mientras aprendes programación paso a paso.</p>
+  </a>
+</div>
 
-Conecta motores, LEDs, sensores, servomotores y otros componentes mientras aprendes programación paso a paso.
+<a class="start-button" href="EduBoard-UNO/">Comenzar con EduBoard UNO →</a>
 
-[**Comenzar con EduBoard UNO →**](EduBoard-UNO/)
-
----
-
-**Próximamente:** nuevas EduBoards y nuevos proyectos.
+<div class="quick-note">
+<strong>Próximamente:</strong> nuevas EduBoards, actividades y proyectos.
+</div>

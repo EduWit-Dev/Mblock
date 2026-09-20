@@ -3,3 +3,8 @@ description: Guías sencillas para aprender robótica y programación con las Ed
 theme: minima
 lang: es-MX
 markdown: kramdown
+
+header_pages:
+  - EduBoard-UNO/index.md
+  - EduBoard-UNO/proyectos.md
+  - EduBoard-UNO/ayuda.md

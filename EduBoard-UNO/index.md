@@ -5,31 +5,41 @@ title: EduBoard UNO
 
 # ¡Bienvenido a EduBoard UNO! 👋
 
-Con **EduBoard UNO** puedes aprender programación, electrónica y robótica utilizando bloques en mBlock.
+Aprende a utilizar tu tarjeta desde cero. Elige lo que quieres hacer:
 
-Esta guía está diseñada para comenzar desde cero.
+<div class="guide-grid">
 
-## ¿Qué quieres hacer?
+<a class="guide-card" href="comenzar.html">
+<h3>🚀 Comenzar</h3>
+<p>Prepara tu tarjeta y conoce lo que necesitas.</p>
+</a>
 
-### 🚀 [Comenzar](comenzar.html)
-Conoce lo que necesitas y prepara todo para tu primera actividad.
+<a class="guide-card" href="conectar.html">
+<h3>🔌 Conectar mi EduBoard</h3>
+<p>Agrega EduBoard UNO en mBlock y conéctala por USB.</p>
+</a>
 
-### 🔌 [Conectar mi EduBoard](conectar.html)
-Aprende a agregar EduBoard UNO en mBlock y conectarla por USB.
+<a class="guide-card" href="modos.html">
+<h3>💻 Cargar o En vivo</h3>
+<p>Descubre cuál modo debes utilizar en cada proyecto.</p>
+</a>
 
-### 🟣 [Conocer los bloques](bloques.html)
-Descubre para qué sirven Eventos, Movimiento, Luz y sonido, Sensores y Comunicación.
+<a class="guide-card" href="bloques.html">
+<h3>🟣 Conocer los bloques</h3>
+<p>Eventos, Movimiento, Luz y sonido, Sensores y Comunicación.</p>
+</a>
 
-### 💻 [Modo Cargar y Modo En vivo](modos.html)
-Aprende la diferencia entre las dos formas de trabajar con tu EduBoard.
+<a class="guide-card" href="proyectos.html">
+<h3>🧩 Primeros proyectos</h3>
+<p>Aprende haciendo actividades sencillas paso a paso.</p>
+</a>
 
-### 🧩 [Primeros proyectos](proyectos.html)
-Comienza con actividades sencillas y avanza paso a paso.
+<a class="guide-card" href="ayuda.html">
+<h3>🛟 Necesito ayuda</h3>
+<p>Soluciones rápidas para los problemas más comunes.</p>
+</a>
 
-### 🛟 [Necesito ayuda](ayuda.html)
-Soluciones rápidas para los problemas más comunes.
-
----
+</div>
 
 ## Tu primer reto
 
